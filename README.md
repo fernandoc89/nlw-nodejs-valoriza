@@ -17,6 +17,8 @@
   <img alt="TypeScript" width="35px" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
 </a>
 <a>
+  <img alt="NodeJs" width="35px" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+</a>
 </p>
 
 <br>
